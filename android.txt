@@ -1,0 +1,3 @@
+title=EYES
+author=MathisPasteau
+orientation=portrait
